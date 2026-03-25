@@ -8,7 +8,9 @@ This task helped me learn how to present important information in an engaging wa
 For Task 2, I chose to set up profiles on GitHub, LinkedIn, and Kaggle.
 GitHub is an essential platform for developers to share and collaborate on code. I created a profile README repository where I introduced myself, mentioned my current degree in B.Tech (Computer Science), and shared my goal of learning more about software development and collaborative coding. This will serve as my professional identity in the tech community.
 LinkedIn is crucial for networking with professionals and potential employers. I filled in my Education section with my degree, institution (VIT Bhopal University), and my expected graduation year (2026). LinkedIn will allow me to showcase my academic achievements, network, and apply for internships.
+http://www.linkedin.com/in/prakhar-patil-8989p1
 Kaggle is a platform for data science enthusiasts. I created a profile to explore data science competitions, access learning materials, and build a portfolio of my work. Over the next four years, I plan to engage in Kaggle challenges to improve my skills in data analysis and machine learning.
+https://www.kaggle.com/prakharpatil45
 I aim to use these platforms to build a strong digital presence and enhance my academic and professional journey.
 ### Task 3 - Platforms
 For Task 3, I explored platforms for both coding practice and collaborative tools.
