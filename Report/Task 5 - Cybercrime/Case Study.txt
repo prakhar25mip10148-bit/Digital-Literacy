@@ -1,1 +1,7 @@
+Phishing: A Case Study
 
+Phishing is a type of cybercrime in which cybercriminals impersonate legitimate organizations, such as banks or tech companies, to steal sensitive information from individuals. Phishing attacks typically occur through fraudulent emails or fake websites that appear authentic. 
+
+A common phishing attack involves a fake email from a "bank," claiming that the recipient's account has been compromised and urging them to click on a link to reset their password. When the victim clicks the link, they are redirected to a fraudulent site where their login credentials are stolen.
+
+Phishing typically targets individuals who lack awareness of online security risks. The consequences can include unauthorized access to bank accounts, identity theft, and significant financial losses.
