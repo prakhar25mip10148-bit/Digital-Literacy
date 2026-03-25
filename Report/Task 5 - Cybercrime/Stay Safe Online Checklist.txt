@@ -1,0 +1,9 @@
+"Stay Safe Online" Checklist:
+Use Strong Passwords: Always use complex passwords with a mix of uppercase, lowercase, numbers, and symbols.
+Enable Two-Factor Authentication (2FA): Use 2FA on platforms that offer it for an extra layer of security.
+Be Cautious of Suspicious Emails: Do not click on links or open attachments from unknown or suspicious sources.
+Verify Online Transactions: Ensure websites are secure (look for "https" in the URL) before entering payment details.
+Keep Your Software Updated: Regularly update your operating system and apps to avoid vulnerabilities.
+Avoid Public Wi-Fi for Financial Transactions: Never make online payments or access sensitive information over unsecured public Wi-Fi networks.
+Beware of Phishing Scams: If you receive unsolicited emails asking for sensitive information, always verify the authenticity before responding.
+Report Suspicious Activities: Report any suspicious cyber activity or fraud to the authorities, such as the National Cyber Crime Portal.
